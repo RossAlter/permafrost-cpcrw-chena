@@ -22,7 +22,7 @@ This repository contains one directory of data files associated with the figures
 
 * "Figure_data"
 
-  * The figure data are the raw data that are used to produce each figure in the Alter et al. manuscript.
+  * This directory contains the data that are used to produce each figure in the Alter et al. manuscript.
 
   * *Notes*:
 
