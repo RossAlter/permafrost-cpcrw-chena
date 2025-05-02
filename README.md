@@ -1,6 +1,9 @@
 # permafrost-cpcrw-chena
 
-This repository contains 1) the data needed to reproduce the figures in the Alter et al. manuscript "Using an observation-based map of permafrost extent to inform permafrost predictions in a large Alaskan watershed", which has been submitted to JGR Earth Surface, and 2) the machine learning model developed in this study that is used to predict permafrost extent in the Chena River watershed.
+This repository contains:
+
+1) The data needed to reproduce the figures in the Alter et al. manuscript "Using an observation-based map of permafrost extent to inform permafrost predictions in a large Alaskan watershed", which has been submitted to JGR Earth Surface, and
+2) The machine learning model developed in this study that is used to predict permafrost extent in the Chena River watershed.
 
 ## Authors
 Ross E. Alter<sup>1*</sup>, Nawa Raj Pradhan<sup>2</sup>, and Anna M. Wagner<sup>3</sup>
@@ -13,9 +16,6 @@ Ross E. Alter<sup>1*</sup>, Nawa Raj Pradhan<sup>2</sup>, and Anna M. Wagner<sup
 
 ## Created
 March 2025
-
-## Purpose
-This repository contains 1) the data needed to reproduce the figures in the Alter et al. manuscript "Using an observation-based map of permafrost extent to inform permafrost predictions in a large Alaskan watershed", which has been submitted to JGR Earth Surface, and 2) the machine learning model developed in this study that is used to predict permafrost extent in the Chena River watershed.
 
 ## Data
 This repository contains one directory of data files associated with the figures in the Alter et al. manuscript as well as a .pkl file that contains the machine learning model developed in this study:
