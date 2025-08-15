@@ -2,7 +2,7 @@
 
 This repository contains:
 
-1) The data needed to reproduce the figures in the Alter et al. manuscript "Using an observation-based map of permafrost extent to inform permafrost predictions in a large Alaskan watershed", which has been submitted to JGR Earth Surface, and
+1) The data needed to reproduce the figures in the Alter et al. manuscript "Using an observation-based map of permafrost extent to inform permafrost predictions in a large Alaskan watershed", which has been submitted to Cold Regions Science and Technology, and
 2) The machine learning model developed in this study that is used to predict permafrost extent in the Chena River watershed.
 
 ## Authors
